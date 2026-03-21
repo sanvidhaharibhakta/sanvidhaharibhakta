@@ -53,9 +53,3 @@
 </div>
 
 <br clear="both" />
-
-<img
-  src="https://raw.githubusercontent.com/Sanvidhaharibhakta/Sanvidhaharibhakta/output/snake.svg"
-  alt="Snake animation"
-  loading="lazy"
-/>
